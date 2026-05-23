@@ -75,7 +75,7 @@ class TransaksiManager:
 
     def __init__(self):
 
-        self.file_path = "data/transaksi.json"
+        self.file_path = os.path.join(os.path.dirname(__file__), "data", "transaksi.json")
 
         self.daftar_transaksi = []
 

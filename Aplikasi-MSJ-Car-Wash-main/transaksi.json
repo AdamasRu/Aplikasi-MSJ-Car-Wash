@@ -1,0 +1,62 @@
+[
+    {
+        "queue_id": "A-001",
+        "invoice": "INV-0001",
+        "nama": "hafiz",
+        "no_hp": "085960206608",
+        "plat": "G 23345",
+        "layanan": "Premium Wash",
+        "harga": 85000,
+        "tanggal": "19-05-2026 20:50"
+    },
+    {
+        "queue_id": "A-001",
+        "invoice": "INV-0002",
+        "nama": "Hafizh",
+        "no_hp": "085960206608",
+        "plat": "F937403DJ",
+        "layanan": "Premium Wash",
+        "harga": 85000,
+        "tanggal": "19-05-2026 20:58"
+    },
+    {
+        "queue_id": "A-001",
+        "invoice": "INV-0003",
+        "nama": "klomang",
+        "no_hp": "081214642762",
+        "plat": "m 12345",
+        "layanan": "Premium Wash",
+        "harga": 85000,
+        "tanggal": "19-05-2026 22:17"
+    },
+    {
+        "queue_id": "A-002",
+        "invoice": "INV-0004",
+        "nama": "almas",
+        "no_hp": "081214642762",
+        "plat": "g 7890",
+        "layanan": "Cuci Biasa",
+        "harga": 50000,
+        "tanggal": "19-05-2026 22:23"
+    },
+    {
+        "queue_id": "A-001",
+        "invoice": "INV-0005",
+        "nama": "mou",
+        "no_hp": "081214642762",
+        "plat": "HETT",
+        "layanan": "Premium Wash",
+        "harga": 85000,
+        "tanggal": "19-05-2026 22:38"
+    },
+    {
+        "queue_id": "A-001",
+        "invoice": "INV-0006",
+        "nama": "almas",
+        "no_hp": "081214642762",
+        "plat": "B 81631 AJ",
+        "layanan": "Premium Wash",
+        "harga": 85000,
+        "tanggal": "19-05-2026 22:50"
+    }
+]

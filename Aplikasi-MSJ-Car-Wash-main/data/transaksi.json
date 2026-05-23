@@ -1,0 +1,46 @@
+[
+    {
+        "id_transaksi": 1,
+        "nama_pelanggan": "Solomon",
+        "plat_nomor": "G893798DF",
+        "jenis_layanan": "Cuci Biasa",
+        "harga": 50000,
+        "waktu_masuk": "2026-04-29 08:14:48.222371",
+        "waktu_mulai": "2026-04-29 08:14:52.195629",
+        "waktu_selesai": "2026-04-29 08:15:11.372112",
+        "metode_pembayaran": "5"
+    },
+    {
+        "id_transaksi": 2,
+        "nama_pelanggan": "Salman",
+        "plat_nomor": "B04078DF",
+        "jenis_layanan": "Cuci Biasa",
+        "harga": 50000,
+        "waktu_masuk": "2026-04-29 08:14:12.052806",
+        "waktu_mulai": "2026-04-29 08:14:52.195483",
+        "waktu_selesai": "2026-04-29 08:15:42.079077",
+        "metode_pembayaran": "Cash"
+    },
+    {
+        "id_transaksi": 3,
+        "nama_pelanggan": "salmon",
+        "plat_nomor": "KT 2342 FKS",
+        "jenis_layanan": "CUCI",
+        "harga": 50000,
+        "waktu_masuk": "2026-05-11 17:23:27.908372",
+        "waktu_mulai": "2026-05-11 17:23:55.955985",
+        "waktu_selesai": "2026-05-11 17:24:18.644179",
+        "metode_pembayaran": "Cash"
+    },
+    {
+        "id_transaksi": 4,
+        "nama_pelanggan": "Salman",
+        "plat_nomor": "KT 23782 HY",
+        "jenis_layanan": "CUCI BIASA",
+        "harga": 60000,
+        "waktu_masuk": "2026-05-11 17:50:35.561323",
+        "waktu_mulai": "2026-05-11 17:50:49.074318",
+        "waktu_selesai": "2026-05-11 17:51:08.933281",
+        "metode_pembayaran": "Transfer"
+    }
+]

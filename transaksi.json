@@ -1,0 +1,30 @@
+[
+    {
+        "invoice": "INV-0001",
+        "nama": "manal",
+        "no_hp": "081214642762",
+        "plat": "G 12345",
+        "layanan": "Cuci Biasa",
+        "harga": 9000000,
+        "tanggal": "19-05-2026 18:33"
+    },
+    {
+        "invoice": "INV-0002",
+        "nama": "Salman",
+        "no_hp": "087728717594",
+        "plat": "F73974DJ",
+        "layanan": "Premium Wash",
+        "harga": 850000,
+        "tanggal": "19-05-2026 20:28"
+    },
+    {
+        "queue_id": "A-001",
+        "invoice": "INV-0003",
+        "nama": "manal",
+        "no_hp": "085960206608",
+        "plat": "G 12345",
+        "layanan": "Premium Wash",
+        "harga": 85000,
+        "tanggal": "19-05-2026 20:38"
+    }
+]
